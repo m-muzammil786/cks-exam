@@ -1,7 +1,4 @@
 # Exam Information
-
-  - Take me to the [Video Tutorial](https://kodekloud.com/topic/exam-information/)
-    ![Exam Info](../../images/examInfo.png)
     
 ## Certification Details
 
