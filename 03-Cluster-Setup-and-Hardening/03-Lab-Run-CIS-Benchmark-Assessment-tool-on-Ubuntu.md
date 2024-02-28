@@ -1,6 +1,5 @@
 #  Lab - Run-CIS-Benchmark-Assessment-tool-on-Ubuntu
-
-  - Take me to the [Lab](https://kodekloud.com/topic/lab-run-cis-benchmark-assessment-tool-on-ubuntu/)
+  - Take me to the [Lab]
 
 Solutions for lab Run-CIS-Benchmark-Assessment-tool-on-Ubuntu:-
 

@@ -1,6 +1,6 @@
 # Lab - Kube-bench
 
-- Take me to the [Lab](https://kodekloud.com/topic/lab-kube-bench/)
+- Take me to the [Lab]
 
 Solutions for lab - Kube-bench:-
 

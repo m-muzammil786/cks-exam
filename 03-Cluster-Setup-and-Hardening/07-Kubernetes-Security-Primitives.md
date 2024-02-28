@@ -1,7 +1,5 @@
 # Kubernetes Security Primitives
 
-- Take me to the [Video Tutorial](https://kodekloud.com/topic/kubernetes-security-primitives-2/)
-
 In this section we will take a look at `Kubernetes Security Primitives`.
 
   - The kube-apiserver is at the center of all operations within kubernetes. We interact with it through the kubectl utility or by accessing the API directly and through that you can perform almost any operation on the cluster. So that's the first line of defense.

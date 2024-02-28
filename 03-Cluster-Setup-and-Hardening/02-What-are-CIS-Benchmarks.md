@@ -1,7 +1,5 @@
 # What-are-CIS-Benchmarks
 
-  - Take me to the [Video Tutorial](https://kodekloud.com/topic/what-are-cis-benchmarks/)
-
 In this section, we will take a look at `What are the CIS Benchmarks`.
 
   - The full form of CIS is **`Center for internet Security`**.
