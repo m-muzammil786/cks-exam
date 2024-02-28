@@ -1,6 +1,6 @@
 # Lab - Service Accounts
 
-  - Take me to the [Lab](https://kodekloud.com/topic/lab-service-accounts/)
+  - Take me to the [Lab]
 
 Solutions for lab - Service Accounts:-
 
